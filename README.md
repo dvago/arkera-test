@@ -30,3 +30,6 @@ npm run build
 - There is not so much responsiveness, however the table is visible across multiple viewports. However there is an example of how I work with responsiveness within the Header component (line 40).
 - The current dependencies are facing a moderate vulnerability, however I didn't update the package as it has breaking changes and it's **out of scope**.
 - An brief test on cross compatibility has been done on Safari, Firefox and Chrome (last build to date)
+
+## Always remember:
+![alt Time is golden](https://i.vimeocdn.com/video/646137606_960.jpg)
