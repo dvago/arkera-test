@@ -1,0 +1,32 @@
+/* Colours */
+$swamp: #00171F;
+$white: #FFFFFF;
+$mercury: #E8E8E8;
+$cerulean: #007EA7;
+$cerulean--light: #00A8E8;
+$cerulean--dark: #003459;
+
+/* Typography */
+$font-size: 1em;
+$font-size--sm: $font-size * .9;
+$font-size--md: $font-size * 1.25;
+$font-size--lg: $font-size * 3;
+
+/* Spacing */
+$spacing: 1em;
+$spacing--sm: $spacing / 2;
+$spacing--md: $spacing * 1.5;
+$spacing--lg: $spacing * 2;
+
+/* Other sizes */
+$border-radius: 20px;
+$header-h: 4em;
+$footer-h: 6.5em;
+
+/* Breakpoints */ 
+$screen-sm: 576px;
+
+/* Note: it's just an idea, 
+  I'm not using other breakpoints in this test 
+  or even few variants of spacing/font/palette
+*/
